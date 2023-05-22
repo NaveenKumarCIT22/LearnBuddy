@@ -1,0 +1,10 @@
+body {
+  height: 100vh;
+  background: linear-gradient(
+    -35deg,
+    rgb(23, 17, 45),
+    rgb(20, 9, 38),
+    rgb(10, 10, 32)
+  );
+  color: whitesmoke;
+}
